@@ -1,0 +1,5 @@
+{
+    "threshold_min": 170,
+    "threshold_max": 255,
+    "contour_area_min": 400
+}
